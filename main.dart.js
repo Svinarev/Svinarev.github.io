@@ -43205,7 +43205,7 @@ r.push(A.f3(A.aoz(A.b9(m,B.n,B.o,B.k)),4))
 m=A.as(r,B.Z,B.o,B.k)}else{if(l.a>450){s=b.J(m).f
 m=b.J(m).f
 s=A.dr(A.atE(n,!0),m.a.b*0.9,s.a.a*0.6)
-m=s}else m=A.dr(A.atE(n,!0),500,300)
+m=s}else m=A.dr(A.atE(n,!0),300,300)
 m=A.as(A.b([A.hr(m,o,o)],t.p),B.n,B.i8,B.k)}return A.aou(B.l,m,B.wq,o,this.f)}}
 A.ak0.prototype={
 $1(a){this.a.a1(new A.ak_())},
